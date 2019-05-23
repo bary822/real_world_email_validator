@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["bary822"]
   s.email       = 'hiroto.fukui822@gmail.com'
   s.files       = ["lib/real_world_email_validator.rb"]
+  s.homepage    = 'https://github.com/bary822/real_world_email_validator'
   s.license     = 'MIT'
 
   s.require_paths = ["lib"]
