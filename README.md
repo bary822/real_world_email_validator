@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/bary822/real_world_email_validator.svg?branch=master)](https://travis-ci.com/bary822/real_world_email_validator)
+
 # real_world_email_validator
 Email address validator that real world needs, for ActiveModel 3+.
 
