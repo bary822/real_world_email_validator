@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'real_world_email_validator'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.date        = '2019-05-22'
   s.summary     = "Email address validator that real world needs, for ActiveModel 4+."
   s.description = "Basically based on RFC 5322, with some additional validations so it works on almost all variety of systems."
