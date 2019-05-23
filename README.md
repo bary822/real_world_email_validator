@@ -13,7 +13,7 @@ Read more about this on [wikipedia](https://en.wikipedia.org/wiki/Non-Internet_e
 - Ruby 2.4+
 - ActiveModel 3+
 
-# Intall
+# Install
 `gem install real_world_email_validator`
 
 or if you use bundler:
