@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
 
   s.require_paths = ["lib"]
 
-  s.add_runtime_dependency 'activemodel', '~> 4'
+  s.add_runtime_dependency 'activemodel', '~> 3'
 
   s.add_development_dependency 'rspec'
 end
